@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Comunication</h1>
 
-<!--
-**IamPierrot/IamPierrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align= "center"> My stats</h1>
+<br>
+<div align="center">
+<img    align="left"
+        width="396"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPierrot&show_icons=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
+    />
+    <img
+        align="right"
+        height="396"
+        src="https://github-readme-stats.vercel.app/api?username=IamPierrot&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=a6e3a1"
+    />
+</div>
+</br>
 
-Here are some ideas to get you started:
+<h1 align="center">Languages and tools</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,nodejs,git,github,mongodb,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
