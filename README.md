@@ -100,3 +100,11 @@ P/s: from 🇻🇳 with 💖
 
     };
 ```
+
+## 🤝 At the end
+
+If you have any questions about me or something else, feel free to <a href="mailto:phatnguyentan836@gmail.com">contact me through email</a> me.
+
+> Peace and Love
+
+> "Yeu duong Vo Van" - Kry
