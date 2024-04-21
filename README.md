@@ -24,7 +24,8 @@ P/s: from 🇻🇳 with 💖
 
 ## 🛠️ Tools and Languages:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,python,git,github,mongodb,stackoverflow,vscode&theme=dark" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,python,git,github,mongodb,stackoverflow,vscode&theme=dark" alt="Languages and Tools 1" />
+    <img src="https://skillicons.dev/icons?i=java,maven,cs,dotnet,unity&theme=dark" alt="Languages and Tools 2" />
 </p>
 
 ## 🙋‍♂️ Connect with me:
