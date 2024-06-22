@@ -31,8 +31,8 @@ P/s: from 🇻🇳 with 💖
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href=""><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
-  <a href="https://twitter.com/DenverCoder1"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/saddestpersoninthewholeworld/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/></a>  
+  <a href="https://www.instagram.com/pierrot.186/"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 #
