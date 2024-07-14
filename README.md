@@ -51,57 +51,6 @@ P/s: from 🇻🇳 with 💖
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
 
-## ⌨️ Introduction in programme
-### Typescript
-```ts
-    class Info {
-        private readonly realname: string;
-        public readonly nickname: string;
-        public readonly national: string = "Viet Nam";
-
-        constructor() {
-            this.realname = "Nguyen Tan Phat";
-            this.nickname =  "Pierrot";
-        }
-        
-        public void doSomething() {
-            console.log(`${this.nickname} are coding!`);
-        }
-    } 
-```
-### Python
-```python
-    class Info:
-        def __init__(self):
-            self._realname = "Nguyen Tan Phat"
-            self._nickname = "Pierrot"
-            self.national = "Viet Nam"
-
-        def doSomething(self):
-            print(f"{self._nickname} are coding!")
-```
-### C++
-```c++
-    class Info
-    {
-    private:
-        char[] realname;
-        char[] name;
-        char[] national
-    public:  
-      Info() : 
-        realname("Nguyen Tan Phat"), 
-        name("Pierrot"), 
-        national("Viet Nam")
-      {} 
-      void doSomething()
-      {
-        std::cout << this.nickname << "are coding!";
-      }
-
-    };
-```
-
 ## 🤝 At the end
 
 If you have any questions about me or something else, feel free to <a href="mailto:phatnguyentan836@gmail.com">contact me through email</a>.
