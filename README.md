@@ -13,9 +13,9 @@
 ```
 IamPierrot@github
 -------------------------
-💻 I am a self-taught full stack developer.
-🔭 Studying backend development.
-🌱 Be going to learn Computer Science and Networking. 
+💻 I am a self-taught full snack developer.
+🔭 Studying backend development and networking management.
+🌱 Currently in fields: Computer Science and Networking. 
 🌟 Main languages: TypeScript, Golang, C#,...
 
 P/s: from 🇻🇳 with 💖
