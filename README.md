@@ -54,12 +54,12 @@ P/s: From 🇻🇳 with 💖
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=IamPierrot&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
+    src="https://github-stats-extended.vercel.app/api?username=IamPierrot&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
     alt="GitHub Stats"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPierrot&layout=compact&theme=dracula&hide_border=true&langs_count=8"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=IamPierrot&layout=compact&theme=dracula&hide_border=true&langs_count=8"
     alt="Top Languages"
   />
 </p>
@@ -69,14 +69,6 @@ P/s: From 🇻🇳 with 💖
     src="https://streak-stats.demolab.com?user=IamPierrot&theme=dracula&hide_border=true"
     alt="GitHub Streak"
   />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IamPierrot&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=4" />
 </p>
 
 ---
